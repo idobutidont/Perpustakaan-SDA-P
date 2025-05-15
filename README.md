@@ -1,11 +1,14 @@
 ### This one's particularly agonizing. I gave up.
+<br />
 
 #### Build & Run
-Linux:
+##### Linux:
 ```
 make run
 ```
-Windows:
+<br />
+
+##### Windows:
 ```
 ¯\_(ツ)_/¯
 ```
